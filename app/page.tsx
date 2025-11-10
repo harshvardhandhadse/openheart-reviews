@@ -11,7 +11,7 @@ export default function Home() {
             A Privacy-First Review Platform
           </p>
           <p className="text-xl text-gray-500 mb-12">
-            Share honest reviews anonymously. Better than MouthShut.
+            Share honest reviews anonymously.
           </p>
           <div className="flex gap-4 justify-center">
             <a href="/reviews/new" className="btn-primary">
