@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'OpenHeart Reviews - Privacy-First Review Platform',
-  description: 'Share honest reviews anonymously. Better than MouthShut.',
+  description: 'Share honest reviews anonymously.',
 }
 
 export default function RootLayout({
