@@ -17,8 +17,7 @@ export default function Home() {
             <a href="/reviews/new" className="btn-primary">
               Write a Review
             </a>
-            <a href="/categories" className="btn-secondary">
-              Browse Categories
+        <a href="/reviews" className="btn-secondary">              Browse Reviews
             </a>
           </div>
         </section>
